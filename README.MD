@@ -17,4 +17,3 @@ Links git to GitHub through PAT.
 ### git checkout branch --> to switch branches
 ### add content in feature branch and push on github
 ### git checkout main--> content saved will not reflect in this branch
-
