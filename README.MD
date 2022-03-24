@@ -10,6 +10,7 @@ Links git to GitHub through PAT.
 ### enter username and PAT as passwd
 
 
+##### ----------------------------------------------------------------
 ## Git Branching
 ### git branch -->*-current branch
 ### git checkout -b branchname
