@@ -15,3 +15,5 @@ git branch -->*-current branch
 git checkout -b branchname
 git checkout branch --> to switch branches
 add content in feature branch and push on github
+git checkout main--> content saved will not reflect in this branch
+
