@@ -8,3 +8,10 @@ git add .
 git commit -m "title" -m "desc"
 git push
 enter username and PAT as passwd
+
+
+## Git Branching
+git branch -->*-current branch
+git checkout -b branchname
+git checkout branch --> to switch branches
+add content in feature branch and push on github
